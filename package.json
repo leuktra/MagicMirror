@@ -1,0 +1,27 @@
+{
+  "name": "magic-mirror",
+  "version": "1.0.0",
+  "description": "My own implementation of Magic Mirror project from http://michaelteeuw.nl/tagged/magicmirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maciej-kolodziejczak/MagicMirror.git"
+  },
+  "author": "Maciej Kołodziejczak",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/maciej-kolodziejczak/MagicMirror/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-less": "~1.0.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-autoprefixer": "~2.2.0",
+    "grunt-contrib-uglify": "~0.8.0",
+    "grunt-contrib-copy": "~0.8.0",
+    "grunt-contrib-jshint": "~0.11.0"
+  }
+}

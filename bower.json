@@ -1,0 +1,26 @@
+{
+  "name": "magic-mirror",
+  "version": "1.0.0",
+  "homepage": "https://github.com/maciej-kolodziejczak/MagicMirror",
+  "authors": [
+    "Maciej Kołodziejczak <kontakt@davedoesweb.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "momentjs": "~2.9.0",
+    "classie": "~1.0.1",
+    "JavaScript-Ical-Parser": "https://github.com/thybag/JavaScript-Ical-Parser.git",
+    "rrule": "~2.1.0"
+  }
+}
